@@ -1,0 +1,15 @@
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\project 2.csproj.AssemblyReference.cache
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\project 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\project 2.AssemblyInfoInputs.cache
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\project 2.AssemblyInfo.cs
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\project 2.csproj.CoreCompileInputs.cache
+D:\الكلية\New folder\project 2\project 2\bin\Debug\net7.0\project 2.exe
+D:\الكلية\New folder\project 2\project 2\bin\Debug\net7.0\project 2.deps.json
+D:\الكلية\New folder\project 2\project 2\bin\Debug\net7.0\project 2.runtimeconfig.json
+D:\الكلية\New folder\project 2\project 2\bin\Debug\net7.0\project 2.dll
+D:\الكلية\New folder\project 2\project 2\bin\Debug\net7.0\project 2.pdb
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\project 2.dll
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\refint\project 2.dll
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\project 2.pdb
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\project 2.genruntimeconfig.cache
+D:\الكلية\New folder\project 2\project 2\obj\Debug\net7.0\ref\project 2.dll
