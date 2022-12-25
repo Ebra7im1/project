@@ -1,35 +1,43 @@
-﻿namespace project_2
+﻿namespace project_1
 {
     internal class Program
     {
+        static bool Prime(long n)
+        {
+
+            for (int i = 2; i * i <= n; i++)
+            {
+
+                if (n % i == 0)
+                    return false;
+
+            }
+            return true;
+        }
         static void Main(string[] args)
         {
-            int n, i, sum;
-            int an, ax;
+            long n1, n2;
 
-            Console.Write("Find the perfect number between two numbers:\n");
+            Console.WriteLine("enter the first number");
+            n1 = long.Parse(Console.ReadLine());
 
-            Console.Write("\n\n");
+            Console.WriteLine("enter the second number");
+            n2 = long.Parse(Console.ReadLine());
 
-            Console.Write("Enter First Number : ");
-            an = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter Second Number : ");
-            ax = Convert.ToInt32(Console.ReadLine());
-            Console.Write("The perfect number between the two numbers is : ");
-            for (n = an; n <= ax; n++)
+            if (n1 <= 1)
+                n1 = 2;
+
+            for (long i = n1; i <= n2; i++)
             {
-                i = 1;
-                sum = 0;
-                while (i < n)
+
+                if (Prime(i))
                 {
-                    if (n % i == 0)
-                        sum = sum + i;
-                    i++;
+
+                    Console.WriteLine(i);
+
                 }
-                if (sum == n)
-                    Console.Write("{0} ", n);
+
             }
-            Console.Write("\n");
 
         }
     }

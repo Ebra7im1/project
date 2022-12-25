@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\الكلية\\New folder\\project 2\\project 2\\project 2.csproj",
-      "projectName": "project 2",
-      "projectPath": "D:\\الكلية\\New folder\\project 2\\project 2\\project 2.csproj",
+      "projectUniqueName": "D:\\الكلية\\New folder\\project 1\\project 1\\project 1\\project 1.csproj",
+      "projectName": "project 1",
+      "projectPath": "D:\\الكلية\\New folder\\project 1\\project 1\\project 1\\project 1.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\الكلية\\New folder\\project 2\\project 2\\obj\\",
+      "outputPath": "D:\\الكلية\\New folder\\project 1\\project 1\\project 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

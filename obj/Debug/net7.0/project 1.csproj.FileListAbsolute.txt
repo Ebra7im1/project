@@ -1,0 +1,15 @@
+D:\الكلية\New folder\project 1\project 1\project 1\bin\Debug\net7.0\project 1.exe
+D:\الكلية\New folder\project 1\project 1\project 1\bin\Debug\net7.0\project 1.deps.json
+D:\الكلية\New folder\project 1\project 1\project 1\bin\Debug\net7.0\project 1.runtimeconfig.json
+D:\الكلية\New folder\project 1\project 1\project 1\bin\Debug\net7.0\project 1.dll
+D:\الكلية\New folder\project 1\project 1\project 1\bin\Debug\net7.0\project 1.pdb
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\project 1.csproj.AssemblyReference.cache
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\project 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\project 1.AssemblyInfoInputs.cache
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\project 1.AssemblyInfo.cs
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\project 1.csproj.CoreCompileInputs.cache
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\project 1.dll
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\refint\project 1.dll
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\project 1.pdb
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\project 1.genruntimeconfig.cache
+D:\الكلية\New folder\project 1\project 1\project 1\obj\Debug\net7.0\ref\project 1.dll
